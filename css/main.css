@@ -239,25 +239,6 @@ li {
   background-image: url("../media/png/katchy.png");
 }
 
-.column_right {
-  background-color: lightseagreen;
-}
-
-.text {
-  font-size: 50px;
-}
-
-.text, .center {
-  color: white;
-  text-align: center;
-}
-
-.contact-form {
-  align-items: center;
-  margin-top: 20px;
-  margin-left: 150px;
-}
-
 .project-stacks {
   display: flex;
   flex-wrap: wrap;
@@ -343,4 +324,36 @@ li {
 
 .skills {
   list-style: inside url("../media/svg/circle.svg");
+}
+
+.form-row {
+  margin-left: 700px;
+}
+
+.label {
+  margin-left: 170px;
+}
+
+#inputEmail4 {
+  width: 230px;
+}
+
+#inputPassword4 {
+  margin-left: 170px;
+  width: 250px;
+}
+
+.c {
+  margin-left: 690px;
+}
+
+/* .c input {
+  text-align: left;
+  width: 520px;
+  height: 200px;
+} */
+
+.btn {
+  margin-top: 20px;
+  margin-left: 710px;
 }
