@@ -481,3 +481,19 @@ li {
 #fs-frm fieldset.locale select[name="state"] {
   margin-right: 3%;
 }
+
+footer {
+  position: absolute;
+  width: 375px;
+  height: 72px;
+  left: 0px;
+  top: 7060px;
+}
+
+.svgs {
+  margin-left: 213px;
+}
+
+.svgs img {
+  margin-left: 10px;
+}
